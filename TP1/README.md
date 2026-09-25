@@ -1,5 +1,4 @@
 # TP1
-# TP1
 
 ## Exercício
 Expressão regular para apanhar strings binárias que não contenham a substring "011".
